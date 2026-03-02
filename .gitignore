@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 brain_tumor_dataset/
 *.h5
+git remote add origin PASTE_THE_LINK_HERE
+git branch -M main
+git push -u origin main
